@@ -37,7 +37,8 @@ Este dashboard faz parte do meu **portfólio de análise de dados**, desenvolvid
 
 ## 🧩 Visual do Dashboard
 
-<img width="889" height="504" alt="image" src="https://github.com/user-attachments/assets/2ab7bc36-6e55-4462-b4dc-625891ceab46" />
+<img width="887" height="501" alt="Captura de tela 2025-12-01 220211" src="https://github.com/user-attachments/assets/63f5a4cd-be02-4d8e-b9a0-41a4f55b7b1c" />
+
 
 ---
 
